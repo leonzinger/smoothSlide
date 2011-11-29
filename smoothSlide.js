@@ -63,5 +63,3 @@ $.fn.smoothSlide = function(){
         };
     carousel.init();
 };
- 
-$('ul').smoothSlide();
